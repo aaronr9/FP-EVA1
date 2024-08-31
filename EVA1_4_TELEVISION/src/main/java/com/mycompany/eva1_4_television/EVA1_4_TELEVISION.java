@@ -16,7 +16,7 @@ public class EVA1_4_TELEVISION {
         String marca;
         String modelo;
         int pulgadas;
-        int precio;
+        double precio;
         int year;
         
         //ASIGNAR VALORES
